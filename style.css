@@ -1,0 +1,20 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+h2{
+font-size: 20px;
+text-align: center;
+color: hsla(237deg 74% 33% / 61%);
+
+p{
+font-size: 15px;
+text-align: left;
+font-family: Georgia, serif;
+}
+
+body {
+background-color: #007471;
+}
